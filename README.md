@@ -4,6 +4,7 @@ App to identify trees!
 
 To do:
 
+- Rerun the notebook with warning off to improve look
 - Add information about the tree immediately following the it being presented, e.g. link to a web page
 - Improve front end
 - Allow for null results 'I don't know what this tree is'
